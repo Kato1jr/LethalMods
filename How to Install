@@ -9,12 +9,16 @@ Installing Vortex:
   -Goto this page https://www.nexusmods.com/site/mods/1 and click the "manual" button on the left hand side
   -Once Vortex is installed open it and login using your nexus mods account
   -Click the green select a game to manage and seach for lethal company (theres a search bar at the top)
-  -It will tell you it needs to download BepinEx, this is fine and correct
+  -It will tell you it needs to download BepinEx and may need to restart vortex, this is fine and correct
+  -After it has installed you can go to the mods section of vortex to check that BepinEx is installed
+  -Once confimed close Vortex, you will no longer need it
 
 Congrats! you now have BepinEx the base mod.
 
 Next you need to download the plugins file that has all the mods and suits 
-It can be found on the main page of the github
+It can be found on the main page of the github.
+Download and extract the plugins folder inside the rar
+DO NOT JUST PLACE THE RAR IN THE LETHAL COMPANY FOLDER THIS WILL NOT WORK
 
 After downloading the plugins file you will need to locate where your lethal company is installed.
 The easiest way to do this:
@@ -24,6 +28,7 @@ The easiest way to do this:
   -Head into the BepinEX folder and replace the plugins folder with the one downloaded from google drive
 
 You should now be done! and able to play the games with the mods and suits we currently have installed!
+When you launch Lethal company a CMD window should now also lauch along side it, this is fine and Shows that your mods are installed correctly
 
 List of currently used Mods (You dont need to install these they are in the plugins folder): 
  -ShipLobby: https://www.nexusmods.com/lethalcompany/mods/19
