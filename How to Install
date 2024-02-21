@@ -1,0 +1,34 @@
+Sooo you wanna play lethal company ay?!
+
+First you will need to install BepinEx which deals with all the mods 
+The easiest way to do this is to install Vortex
+
+Installing Vortex:
+  -Head to https://www.nexusmods.com/
+  -Create an account (its free)
+  -Goto this page https://www.nexusmods.com/site/mods/1 and click the "manual" button on the left hand side
+  -Once Vortex is installed open it and login using your nexus mods account
+  -Click the green select a game to manage and seach for lethal company (theres a search bar at the top)
+  -It will tell you it needs to download BepinEx, this is fine and correct
+
+Congrats! you now have BepinEx the base mod.
+
+Next you need to download the plugins file that has all the mods and suits 
+Drive link for the plugins file: https://drive.google.com/drive/folders/19JFLS5mYLfZuBpd6DYziBVeThLkDj9bv?usp=drive_link
+
+After downloading the plugins file you will need to locate where your lethal company is installed.
+The easiest way to do this:
+  -Open Steam
+  -Right click lethal company and click on properties
+  -Goto installed files and click the browse button on the right hand side
+  -Head into the BepinEX folder and replace the plugins folder with the one downloaded from google drive
+
+You should now be done! and able to play the games with the mods and suits we currently have installed!
+
+List of currently used Mods (You dont need to install these they are in the plugins folder): 
+ -ShipLobby: https://www.nexusmods.com/lethalcompany/mods/19
+ -ShipLoot: https://www.nexusmods.com/lethalcompany/mods/11
+ -More Company: https://www.nexusmods.com/lethalcompany/mods/60
+ -LB to KG: https://www.nexusmods.com/lethalcompany/mods/17
+ -3rdPerson: https://thunderstore.io/c/lethal-company/p/Verity/3rdPerson/
+ -MoreSuits: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
